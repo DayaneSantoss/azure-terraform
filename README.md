@@ -10,6 +10,7 @@ Gerenciamento do estado do Terraform para rastrear alterações e manter a integ
 Configuração de uma Virtual Network (VNet) para segregação e controle de rede.
 Definição de subnets públicas e privadas para acomodar diferentes cargas de trabalho.
 Implantação de uma máquina virtual (VM) com personalizações definidas.
+
 📂 Estrutura do Projeto:
 ├── storage # Configuração do storage account.
 ├── state # Gerenciamento de estado do Terraform.
